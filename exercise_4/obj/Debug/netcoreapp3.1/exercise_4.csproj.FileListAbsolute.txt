@@ -1,0 +1,4 @@
+C:\Users\HP Pavillion\source\repos\exercise_4\exercise_4\obj\Debug\netcoreapp3.1\exercise_4.csproj.AssemblyReference.cache
+C:\Users\HP Pavillion\source\repos\exercise_4\exercise_4\obj\Debug\netcoreapp3.1\exercise_4.AssemblyInfoInputs.cache
+C:\Users\HP Pavillion\source\repos\exercise_4\exercise_4\obj\Debug\netcoreapp3.1\exercise_4.AssemblyInfo.cs
+C:\Users\HP Pavillion\source\repos\exercise_4\exercise_4\obj\Debug\netcoreapp3.1\exercise_4.csproj.CoreCompileInputs.cache
